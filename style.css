@@ -1,0 +1,30 @@
+body{
+    background-color: aquamarine;
+}
+
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+    color: rgb(31, 149, 82);
+}
+
+
+.nav1{
+    color: lightgreen;
+    border: 3px solid green;
+    background-color: azure;
+    flood-color: aquamarine;
+}
+
+.nav1 li{
+    padding: 5px;
+    display: inline;
+}
+
+#ped1 {
+    width:20%;
+    position: sticky;
+    border-radius: 5px;
+    border-style: dotted;
+}
